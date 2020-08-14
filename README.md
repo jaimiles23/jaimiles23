@@ -2,6 +2,14 @@
 
 I develop educational games for Alexa and study data science.
 
+<br/>
+
+<p align = "center">
+
+[![J's github stats](https://github-readme-stats.vercel.app/api?username=jaimiles23&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</p>
 
 <br/> 
 
