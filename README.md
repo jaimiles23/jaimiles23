@@ -3,6 +3,7 @@
 I develop educational games for Alexa and study data science.
 
 
+<br/> 
 
 <p align = "center">
 On a burning bridge, your options are minimal at best. Depending on where you're standing and how much breath is in your chest
