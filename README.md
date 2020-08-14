@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 https://nitratine.net/blog/post/github-badges/  to make badges.
 
+NOTE: github stats not being centers by HTML code above ^^ Because implemented in markdown. 
 
 
 -->
