@@ -6,9 +6,10 @@ I develop educational games for Alexa and study data science.
 
 <p align = "center">
 On a burning bridge, your options are minimal at best. Depending on where you're standing and how much breath is in your chest
-<b>|</b>    Learn the Issues.  Register to Vote.
-<b>|</b>    OpenLibrary.org
-<b>|</b>    Black Lives Matter
+<b>|</b>    <a href = "https://www.ballotready.org/"> Learn the Issues. </a>
+<a href = "https://vote.gov/"> Register to Vote. </a>
+<b>|</b>    <a href = "https://openlibrary.org/"> OpenLibrary.org </a>
+<b>|</b>    <a href = "https://blacklivesmatter.com/"> Black Lives Matter </a>
 <b>|</b>    Preferred pronouns: he, him, his
 </p>
 <p align = "center">
