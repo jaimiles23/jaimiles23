@@ -1,5 +1,12 @@
 ### Hi there, I'm Jai 👋
 
+
+<p align="center">
+	
+	<a href="https://www.linkedin.com/in/jaimiles/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+
 <!--
 **jaimiles23/jaimiles23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
 -->
+
