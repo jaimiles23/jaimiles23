@@ -8,10 +8,7 @@ I develop educational games for Alexa and study data science.
 
 [![J's github stats](https://github-readme-stats.vercel.app/api?username=jaimiles23)](https://github.com/anuraghazra/github-readme-stats)
 
-
 </p>
-
-<br/> 
 
 <p align = "center">
 On a burning bridge, your options are minimal at best. Depending on where you're standing and how much breath is in your chest
