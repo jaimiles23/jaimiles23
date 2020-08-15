@@ -2,7 +2,9 @@
 
 I develop educational games for Alexa and study data analytics.
 
+
 <br/>
+
 
 <h3> Alexa repos </h3>
 
@@ -11,7 +13,11 @@ I develop educational games for Alexa and study data analytics.
 [![Alexa-Utils](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Alexa-Utils)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3> <a href = "https://github.com/anuraghazra/github-readme-stats">GitHub Stats</a> </h3>
+<br/>
+
+
+<h3>GitHub Stats</h3>
+<i><small>credit to: </i><a href = "https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></small>
 
 [![J's github stats](https://github-readme-stats.vercel.app/api?username=jaimiles23)](https://github.com/anuraghazra/github-readme-stats)
 
