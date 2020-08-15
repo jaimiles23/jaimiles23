@@ -17,12 +17,12 @@ I develop educational games for Alexa and study data analytics.
 
 
 <h3>GitHub Stats</h3>
-<i><small>credit to: </i><a href = "https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></small>
 
 [![J's github stats](https://github-readme-stats.vercel.app/api?username=jaimiles23)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimiles23)](https://github.com/anuraghazra/github-readme-stats)
 
+<i><small>credit to: </i><a href = "https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></small>
 
 <p align = "center">
 On a burning bridge, your options are minimal at best. Depending on where you're standing and how much breath is in your chest
