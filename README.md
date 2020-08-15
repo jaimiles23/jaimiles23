@@ -22,7 +22,7 @@ I develop educational games for Alexa and study data analytics.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimiles23)](https://github.com/anuraghazra/github-readme-stats)
 
-<i><small>credit to: </i><a href = "https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></small>
+<i><small>formatted via: </i><a href = "https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></small>
 
 <p align = "center">
 On a burning bridge, your options are minimal at best. Depending on where you're standing and how much breath is in your chest
