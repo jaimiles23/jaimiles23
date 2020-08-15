@@ -1,6 +1,6 @@
 ### Hi, I'm Jai!
 
-I develop educational games for Alexa and study data science.
+I develop educational games for Alexa and study data analytics.
 
 <br/>
 
