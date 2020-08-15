@@ -20,7 +20,7 @@ On a burning bridge, your options are minimal at best. Depending on where you're
     <a href = "https://github.com/jaimiles23"><img src="https://img.shields.io/github/followers/jaimiles23.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href = "https://www.linkedin.com/in/jaimiles"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
     <a href = "https://www.chess.com/member/jaimiles23"><img src = "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" alt = "Chess.com" width = 25></a>  
-    <a href = "https://www.python.org"><img src = "https://img.shields.io/badge/Love-Python-1f425f.svg" alt = "Python"></a>
+    <a href = "https://www.python.org"><img src = "https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png" alt = "Python" width = 25></a>
 </p>
 
 
