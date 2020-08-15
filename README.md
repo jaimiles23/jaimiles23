@@ -3,7 +3,6 @@
 I develop educational games for Alexa and study data analytics.
 
 [![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Multiplication-Medley)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Alexa-Utils](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Alexa-Utils)](https://github.com/anuraghazra/github-readme-stats)
 
 
