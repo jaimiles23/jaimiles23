@@ -1,17 +1,22 @@
-### Hi, I'm Jai!
+<h3> Hi, I'm Jai! </h3>
 
 I develop educational games for Alexa and study data analytics.
 
+<br/>
+
+<h3> Alexa repos </h3>
+
 [![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Multiplication-Medley)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Alexa-Utils](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Alexa-Utils)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br/>
-<br/>
+<h3> <a href = "https://github.com/anuraghazra/github-readme-stats">GitHub Stats</a> </h3>
 
 [![J's github stats](https://github-readme-stats.vercel.app/api?username=jaimiles23)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimiles23)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align = "center">
 On a burning bridge, your options are minimal at best. Depending on where you're standing and how much breath is in your chest
