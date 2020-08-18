@@ -16,7 +16,17 @@ I develop educational games for Alexa and study data analytics.
 <br/>
 
 
-<h3>GitHub Stats</h3>
+<h3> Data analytics <h3>
+
+[![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Priceonomics_Data_Puzzle)](https://github.com/jaimiles23/Priceonomics_Data_Puzzle)
+
+[![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=pywrangle)](https://github.com/jaimiles23/pywrangle)
+
+
+<br/>
+
+
+<h3> GitHub Stats</h3>
 
 [![J's github stats](https://github-readme-stats.vercel.app/api?username=jaimiles23)](https://github.com/anuraghazra/github-readme-stats)
 
