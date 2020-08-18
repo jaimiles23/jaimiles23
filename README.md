@@ -6,7 +6,7 @@ I develop educational games for Alexa and study data analytics.
 <br/>
 
 
-<h3> Alexa games </h3>
+<h3> Alexa </h3>
 
 [![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Multiplication-Medley)](https://github.com/jaimiles23/Multiplication-Medley)
 
