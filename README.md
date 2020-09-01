@@ -36,7 +36,7 @@ I develop educational games for Alexa and study data analytics.
 
 <p align = "center">
 On a burning bridge, your options are minimal at best. Depending on where you're standing and how much breath is in your chest
-<b>|</b>    <a href = "https://w`ww.ballotready.org/"> Learn the Issues. </a>
+<b>|</b>    <a href = "https://www.ballotready.org/"> Learn the Issues. </a>
 <a href = "https://vote.gov/"> Register to Vote. </a>
 <b>|</b>    <a href = "https://openlibrary.org/"> OpenLibrary.org </a>
 <b>|</b>    <a href = "https://blacklivesmatter.com/"> Black Lives Matter </a>
