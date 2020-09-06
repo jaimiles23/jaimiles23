@@ -18,9 +18,11 @@ I develop educational games for Alexa and study data analytics.
 
 <h3> Data analytics <h3>
 
-[![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=pywrangle)](https://github.com/jaimiles23/pywrangle)
+[![pywrangle](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=pywrangle)](https://github.com/jaimiles23/pywrangle)
 
-[![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Priceonomics_Data_Puzzle)](https://github.com/jaimiles23/Priceonomics_Data_Puzzle)
+[![pywrangle](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=hacker_rank)](https://github.com/jaimiles23/hacker_rank)
+
+[![Priceonomics Data Puzzle](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Priceonomics_Data_Puzzle)](https://github.com/jaimiles23/Priceonomics_Data_Puzzle)
 
 
 
