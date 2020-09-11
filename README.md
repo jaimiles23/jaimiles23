@@ -29,7 +29,7 @@ I develop educational games for Alexa and study data analytics.
 <br/>
 
 
-<h3> GitHub Stats</h3>
+<h3> GitHub stats</h3>
 
 [![J's github stats](https://github-readme-stats.vercel.app/api?username=jaimiles23)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -56,11 +56,9 @@ On a burning bridge, your options are minimal at best. Depending on where you're
 <!--
 NOTES:
 
-https://nitratine.net/blog/post/github-badges/  to make badges.
+https://nitratine.net/blog/post/github-badges/ to make badges.
 
 NOTE: github stats not being centers by HTML code above ^^ Because implemented in markdown. 
-
-
 
 -->
 
