@@ -42,7 +42,7 @@ On a burning bridge, your options are minimal at best. Depending on where you're
 <b>|</b>    <a href = "https://www.ballotready.org/"> Learn the Issues. </a>
 <a href = "https://vote.gov/"> Register to Vote. </a>
 <b>|</b>    <a href = "https://openlibrary.org/"> OpenLibrary.org </a>
-<b>|</b>    <a href = "https://blacklivesmatter.com/"> Black Lives Matter </a>
+<b>|</b>    <a href = "https://blacklivesmatters.carrd.co/"> Black Lives Matter </a>
 <b>|</b>    Preferred pronouns: he, him, his
 </p>
 <p align = "center">
