@@ -6,7 +6,7 @@ I develop educational games and study data analytics.
 <br/>
 
 
-<h3> Educational games </h3>
+<h3> Educational Games </h3>
 
 [![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Multiplication-Medley)](https://github.com/jaimiles23/Multiplication-Medley)
 
@@ -16,7 +16,7 @@ I develop educational games and study data analytics.
 <br/>
 
 
-<h3> Data analytics <h3>
+<h3> Data Analytics <h3>
 
 [![pywrangle](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=pywrangle)](https://github.com/jaimiles23/pywrangle)
 
@@ -29,7 +29,7 @@ I develop educational games and study data analytics.
 <br/>
 
 
-<h3> GitHub stats</h3>
+<h3> GitHub Stats</h3>
 
 [![J's github stats](https://github-readme-stats.vercel.app/api?username=jaimiles23)](https://github.com/anuraghazra/github-readme-stats)
 
