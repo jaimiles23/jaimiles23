@@ -1,16 +1,16 @@
-<h3> Hi, I'm Jai! </h3>
+<h2> Hi, I'm Jai! </h2>
 
-I develop educational games for Alexa and study data analytics.
+I develop educational games and study data analytics.
 
 
 <br/>
 
 
-<h3> Alexa </h3>
+<h3> Educational Games </h3>
 
 [![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Multiplication-Medley)](https://github.com/jaimiles23/Multiplication-Medley)
 
-[![Alexa-Utils](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Alexa-Utils)](https://github.com/jaimiles23/Alexa-Utils)
+[![Typing Game](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Educational-Typing-Game)](https://github.com/jaimiles23/Educational-Typing-Game)
 
 
 <br/>
