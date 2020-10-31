@@ -6,7 +6,7 @@ I develop educational games and study data analytics.
 <br/>
 
 
-<h3> Educational Games </h3>
+<h3> Educational games </h3>
 
 [![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Multiplication-Medley)](https://github.com/jaimiles23/Multiplication-Medley)
 
