@@ -44,7 +44,9 @@ On a burning bridge, your options are minimal at best. Depending on where you're
 <b>|</b>    <a href = "https://openlibrary.org/"> OpenLibrary.org </a>
 <b>|</b>    <a href = "https://blacklivesmatters.carrd.co/"> Black Lives Matter </a>
 <b>|</b>    Preferred pronouns: he, him, his
+<b>|</b>    <a href = "https://www.betterworldbooks.com/"> BetterWorldBooks </a>
 </p>
+
 <p align = "center">
     <a href = "https://github.com/jaimiles23"><img src="https://img.shields.io/github/followers/jaimiles23.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href = "https://www.linkedin.com/in/jaimiles"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
