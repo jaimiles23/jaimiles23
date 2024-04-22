@@ -1,29 +1,23 @@
 <h2> Hi, I'm Jai! </h2>
 
-I develop educational games and study data analytics.
+I am a full-stack data developer: Engineering, Analytics, or Data Science - I want to do it!
 
 
 <br/>
 
 
-<h3> Educational Games </h3>
+<h3> Projects </h3>
 
-[![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Multiplication-Medley)](https://github.com/jaimiles23/Multiplication-Medley)
+[![LLM Accuracy in Applied Analytics](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=LLMAnalyticsAccuracy)](https://github.com/jaimiles23/LLMAnalyticsAccuracy)
 
-[![Typing Game](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Educational-Typing-Game)](https://github.com/jaimiles23/Educational-Typing-Game)
-
-
-<br/>
-
-
-<h3> Data Analytics <h3>
 
 [![pywrangle](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=pywrangle)](https://github.com/jaimiles23/pywrangle)
 
-[![HackerRank Solutions](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=HackerRank_Solutions)](https://github.com/jaimiles23/HackerRank_Solutions)
-
 [![Data Projects](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Data-Projects)](https://github.com/jaimiles23/Data-Projects)
 
+[![HackerRank Solutions](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=HackerRank_Solutions)](https://github.com/jaimiles23/HackerRank_Solutions)
+
+[![Multiplication Medley](https://github-readme-stats.vercel.app/api/pin/?username=jaimiles23&repo=Multiplication-Medley)](https://github.com/jaimiles23/Multiplication-Medley)
 
 
 <br/>
